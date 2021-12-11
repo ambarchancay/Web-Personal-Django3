@@ -1,2 +1,2 @@
 # Web-Personal-Django3
-Proyecto de la materia de Desarrollo de Sistemas de Información
+Proyecto de la materia de Desarrollo de Sistemas de Información Web Personal
